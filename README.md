@@ -1,21 +1,10 @@
 # Example of a multi-page application made with TKInter
+![image](https://github.com/HaiyiWong/predict-house-price-app/assets/71823759/8bc50621-f5ee-4cfc-be0b-5264630ac308)
+![image](https://github.com/HaiyiWong/predict-house-price-app/assets/71823759/33713e78-1281-460a-8093-82b84c87aeeb)
+![image](https://github.com/HaiyiWong/predict-house-price-app/assets/71823759/1ace94a0-a052-45bd-87fe-daa0bd9954c6)
+![image](https://github.com/HaiyiWong/predict-house-price-app/assets/71823759/742e835d-72bb-44d5-aa4f-7df8eff13e98)
 
-![image](https://user-images.githubusercontent.com/3810422/210073524-f357885d-22b7-42ef-848b-9e8a2feab2fe.png)
-![image](https://user-images.githubusercontent.com/3810422/210073538-bc8c0681-419c-418e-a5c8-72c62b0180e5.png)
-![image](https://user-images.githubusercontent.com/3810422/210073551-f2c46e80-39a4-4f78-871d-2d6ec0a72b10.png)
 
-
-## Tutorial Series
-
-Below you can find links to three-part series tutorial which explains the structure of this template and how to get started with it.
-
-This starter template was originally made for a software development course, so the videos might have some references to that specific course.
-
-[Part 1 (16 min)](https://www.youtube.com/watch?v=d49E8tq4iLs&ab_channel=CodeTeachr)
-
-[Part 2 (17 min)](https://www.youtube.com/watch?v=3iEbriQYS2M&ab_channel=CodeTeachr)
-
-[Part 3 (11 min)](https://www.youtube.com/watch?v=qy_AJj42QXI&ab_channel=CodeTeachr)
 
 ## Requirements
 
